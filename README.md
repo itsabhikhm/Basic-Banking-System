@@ -1,4 +1,3 @@
-# The-Sparks-Foundation
 ### Internship Task #1: Basic Banking System
 
 > A basic banking system
